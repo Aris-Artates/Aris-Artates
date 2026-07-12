@@ -25,20 +25,6 @@
 
 ---
 
-### Featured Work
-
-| Project | What It Demonstrates | Stack |
-|---|---|---|
-| [Valarx](https://github.com/Aris-Artates/valarx) | Community Website introduction and invitation, live in production | Next.js, TypeScript, Supabase, PostgreSQL |
-| [ExamPrep](https://github.com/Aris-Artates/examprep) | AI exam platform with live streaming and ML score prediction | Next.js, FastAPI, XGBoost, FFmpeg, Supabase |
-| [LiveFB](https://github.com/Aris-Artates/livefb) | LMS with Facebook Live integration, AI recommendations, and live Q&A | Next.js, FastAPI, Ollama, Supabase |
-| [Tax System](https://github.com/Aris-Artates/tax-system) | Team-delivered tax administration system built through a reviewed PR workflow | Next.js, TypeScript, Supabase |
-| [AITutor](https://github.com/Aris-Artates/aitutor) | Web-based AI tutoring platform on the Claude API | Next.js, TypeScript, Supabase |
-
-Live demo: [valarx.vercel.app](https://valarx.vercel.app)
-
----
-
 ### Game Development
 
 Side projects in 2D game and interaction design:
@@ -48,6 +34,30 @@ Side projects in 2D game and interaction design:
 | [Corne-troll Tower](https://github.com/Aris-Artates/CornetrolTower) | Browser tower defense game that teaches the 46-key Corne keyboard on Programmer Dvorak | HTML5, JavaScript |
 | [Actuation Point](https://github.com/Aris-Artates/ActuationPoint) | Infiltration-themed typing trainer for Corne and Dvorak | Python |
 | 2p2p | Two-player, two-perspective puzzle story game, currently in development | Python |
+
+
+---
+
+### Featured Work
+
+| Project | What It Demonstrates | Stack |
+|---|---|---|
+| [Valarx](https://github.com/Aris-Artates/valarx) | Community Website introduction and invitation, live in production | Next.js, TypeScript, Supabase, PostgreSQL |
+
+Live demo: [valarx.vercel.app](https://valarx.vercel.app)
+
+---
+
+### Experiments
+
+Work-related builds and prototypes, kept public as engineering references:
+
+| Project | Description | Stack |
+|---|---|---|
+| [ExamPrep](https://github.com/Aris-Artates/examprep) | AI exam platform with live streaming and ML score prediction | Next.js, FastAPI, XGBoost, FFmpeg, Supabase |
+| [LiveFB](https://github.com/Aris-Artates/livefb) | LMS with Facebook Live integration, AI recommendations, and live Q&A | Next.js, FastAPI, Ollama, Supabase |
+| [Tax System](https://github.com/Aris-Artates/tax-system) | Team-delivered tax administration system built through a reviewed PR workflow | Next.js, TypeScript, Supabase |
+| [AITutor](https://github.com/Aris-Artates/aitutor) | Web-based AI tutoring platform on the Claude API | Next.js, TypeScript, Supabase |
 
 ---
 
