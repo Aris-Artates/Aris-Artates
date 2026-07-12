@@ -1,7 +1,7 @@
 <h1 align="center">Aris Artates</h1>
 
 <p align="center">
-  <strong>Lead Technical Architect and Full-Stack Developer</strong>
+  <strong>Software Developer • Game Developer</strong>
 </p>
 
 <p align="center">
@@ -19,8 +19,8 @@
 ### What I Do
 
 - Architect full-stack products from data model to deployment for education, government, and enterprise clients
-- Lead team-based delivery: issue-driven branching, pull request review, and 100+ PR release cycles on production systems
-- Integrate external platforms and AI services into real products: Facebook Graph API, Claude API, Ollama, XGBoost
+- Deliver through team-based workflows: issue-driven branching, pull request review, and 100+ PR release cycles on production systems
+- Integrate external platforms and AI services into real products: Facebook Graph API, GPT and Gemini APIs, Ollama, XGBoost
 - Engineer for resilience: graceful degradation when upstream AI is offline, webhook-to-polling fallbacks, hardened CSP and auth flows
 
 ---
@@ -35,7 +35,8 @@
 | [Tax System](https://github.com/Aris-Artates/tax-system) | Team-delivered tax administration system built through a reviewed PR workflow | Next.js, TypeScript, Supabase |
 | [AITutor](https://github.com/Aris-Artates/aitutor) | Web-based AI tutoring platform on the Claude API | Next.js, TypeScript, Supabase |
 
-Live demos: [valarx.vercel.app](https://valarx.vercel.app) | 
+Live demo: [valarx.vercel.app](https://valarx.vercel.app)
+
 ---
 
 ### Game Development
@@ -52,44 +53,95 @@ Side projects in 2D game and interaction design:
 
 ### Tech Stack
 
-**Frontend**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&theme=light" height="42" alt="TypeScript, Next.js, React, Tailwind CSS" />
+  </picture>
+  <br />
+  <sub><b>Frontend</b> &nbsp;&nbsp; TypeScript · Next.js · React · Tailwind CSS</sub>
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,nodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs&theme=light" height="42" alt="Python, FastAPI, Node.js" />
+  </picture>
+  <br />
+  <sub><b>Backend</b> &nbsp;&nbsp; Python · FastAPI · Node.js</sub>
+</p>
 
-**Backend**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=supabase,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=supabase,postgres&theme=light" height="42" alt="Supabase, PostgreSQL" />
+  </picture>
+  <br />
+  <sub><b>Database and Auth</b> &nbsp;&nbsp; Supabase · PostgreSQL</sub>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=sklearn&theme=light" height="42" alt="scikit-learn" />
+  </picture>
+  <br />
+  <sub><b>AI and Machine Learning</b> &nbsp;&nbsp; GPT API · Gemini API · Ollama · XGBoost · scikit-learn</sub>
+</p>
 
-**Database and Auth**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,vercel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,nginx,vercel&theme=light" height="42" alt="Docker, Nginx, Vercel" />
+  </picture>
+  <br />
+  <sub><b>Infrastructure and Deployment</b> &nbsp;&nbsp; Docker · Nginx · Vercel · Railway</sub>
+</p>
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postman,git,github&theme=light" height="42" alt="Postman, Git, GitHub" />
+  </picture>
+  <br />
+  <sub><b>APIs and Tooling</b> &nbsp;&nbsp; Postman · Git · GitHub</sub>
+</p>
 
-**AI and Machine Learning**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,wordpress&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=php,wordpress&theme=light" height="42" alt="PHP, WordPress" />
+  </picture>
+  <br />
+  <sub><b>Currently Studying</b> &nbsp;&nbsp; PHP · WordPress</sub>
+</p>
 
-![Claude](https://img.shields.io/badge/Claude_API-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+---
 
-**Infrastructure and Deployment**
+### IT Foundations
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+Core practices I bring to any engineering or IT environment:
+
+- REST API design, testing, and documentation with Postman
+- Git version control and GitHub team workflows: branching, pull requests, code review
+- Deployment and web server operations: Docker, Nginx, Vercel, Railway
+- Web security fundamentals: HTTPS, Content Security Policy, CORS, and authentication flows
+- Relational data modeling, SQL, and access control with PostgreSQL and Supabase
+- Integration patterns: webhooks, polling fallbacks, rate limits, and third-party API failure handling
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aris-Artates&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aris-Artates&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aris-Artates&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Aris-Artates&show_icons=true&hide_border=true" height="160" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aris-Artates&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aris-Artates&layout=compact&hide_border=true" height="160" alt="Top languages" />
+  </picture>
 </p>
 
 ---
