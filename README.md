@@ -55,8 +55,8 @@ Side projects in 2D game and interaction design:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&theme=light" height="42" alt="TypeScript, Next.js, React, Tailwind CSS" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind&theme=light" height="42" alt="TypeScript, Next.js, React, Tailwind CSS" />
   </picture>
   <br />
   <sub><b>Frontend</b> &nbsp;&nbsp; TypeScript · Next.js · React · Tailwind CSS</sub>
@@ -64,8 +64,8 @@ Side projects in 2D game and interaction design:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,nodejs&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs&theme=light" height="42" alt="Python, FastAPI, Node.js" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Cnodejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python%2Cfastapi%2Cnodejs&theme=light" height="42" alt="Python, FastAPI, Node.js" />
   </picture>
   <br />
   <sub><b>Backend</b> &nbsp;&nbsp; Python · FastAPI · Node.js</sub>
@@ -73,8 +73,8 @@ Side projects in 2D game and interaction design:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=supabase,postgres&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=supabase,postgres&theme=light" height="42" alt="Supabase, PostgreSQL" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=supabase%2Cpostgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=supabase%2Cpostgres&theme=light" height="42" alt="Supabase, PostgreSQL" />
   </picture>
   <br />
   <sub><b>Database and Auth</b> &nbsp;&nbsp; Supabase · PostgreSQL</sub>
@@ -91,8 +91,8 @@ Side projects in 2D game and interaction design:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,vercel&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=docker,nginx,vercel&theme=light" height="42" alt="Docker, Nginx, Vercel" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cnginx%2Cvercel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker%2Cnginx%2Cvercel&theme=light" height="42" alt="Docker, Nginx, Vercel" />
   </picture>
   <br />
   <sub><b>Infrastructure and Deployment</b> &nbsp;&nbsp; Docker · Nginx · Vercel · Railway</sub>
@@ -100,8 +100,8 @@ Side projects in 2D game and interaction design:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman,git,github&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=postman,git,github&theme=light" height="42" alt="Postman, Git, GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman%2Cgit%2Cgithub&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postman%2Cgit%2Cgithub&theme=light" height="42" alt="Postman, Git, GitHub" />
   </picture>
   <br />
   <sub><b>APIs and Tooling</b> &nbsp;&nbsp; Postman · Git · GitHub</sub>
@@ -109,8 +109,8 @@ Side projects in 2D game and interaction design:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,wordpress&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=php,wordpress&theme=light" height="42" alt="PHP, WordPress" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Cwordpress&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=php%2Cwordpress&theme=light" height="42" alt="PHP, WordPress" />
   </picture>
   <br />
   <sub><b>Currently Studying</b> &nbsp;&nbsp; PHP · WordPress</sub>
