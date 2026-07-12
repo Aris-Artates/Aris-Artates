@@ -55,65 +55,11 @@ Side projects in 2D game and interaction design:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts%2Cnextjs%2Creact%2Ctailwind&theme=light" height="42" alt="TypeScript, Next.js, React, Tailwind CSS" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Cpython%2Cphp%2Clua%2Cdotnet%2Cnextjs%2Creact%2Ctailwind%2Cjquery%2Cnodejs%2Cfastapi%2Cwordpress%2Csupabase%2Cpostgres%2Cdocker%2Cnginx%2Cvercel%2Clinux%2Ckali%2Cgit%2Cgithub%2Cgitlab%2Cnpm%2Cpostman%2Cselenium%2Cvisualstudio%2Cnotion%2Cobsidian&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Chtml%2Ccss%2Cpython%2Cphp%2Clua%2Cdotnet%2Cnextjs%2Creact%2Ctailwind%2Cjquery%2Cnodejs%2Cfastapi%2Cwordpress%2Csupabase%2Cpostgres%2Cdocker%2Cnginx%2Cvercel%2Clinux%2Ckali%2Cgit%2Cgithub%2Cgitlab%2Cnpm%2Cpostman%2Cselenium%2Cvisualstudio%2Cnotion%2Cobsidian&perline=8&theme=light" alt="TypeScript, JavaScript, HTML, CSS, Python, PHP, Lua, .NET, Next.js, React, Tailwind CSS, jQuery, Node.js, FastAPI, WordPress, Supabase, PostgreSQL, Docker, Nginx, Vercel, Linux, Kali Linux, Git, GitHub, GitLab, npm, Postman, Selenium, Visual Studio, Notion, Obsidian" />
   </picture>
   <br />
-  <sub><b>Frontend</b> &nbsp;&nbsp; TypeScript · Next.js · React · Tailwind CSS</sub>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cfastapi%2Cnodejs&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=python%2Cfastapi%2Cnodejs&theme=light" height="42" alt="Python, FastAPI, Node.js" />
-  </picture>
-  <br />
-  <sub><b>Backend</b> &nbsp;&nbsp; Python · FastAPI · Node.js</sub>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=supabase%2Cpostgres&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=supabase%2Cpostgres&theme=light" height="42" alt="Supabase, PostgreSQL" />
-  </picture>
-  <br />
-  <sub><b>Database and Auth</b> &nbsp;&nbsp; Supabase · PostgreSQL</sub>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=sklearn&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=sklearn&theme=light" height="42" alt="scikit-learn" />
-  </picture>
-  <br />
-  <sub><b>AI and Machine Learning</b> &nbsp;&nbsp; GPT API · Gemini API · Ollama · XGBoost · scikit-learn</sub>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cnginx%2Cvercel&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=docker%2Cnginx%2Cvercel&theme=light" height="42" alt="Docker, Nginx, Vercel" />
-  </picture>
-  <br />
-  <sub><b>Infrastructure and Deployment</b> &nbsp;&nbsp; Docker · Nginx · Vercel · Railway</sub>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postman%2Cgit%2Cgithub&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=postman%2Cgit%2Cgithub&theme=light" height="42" alt="Postman, Git, GitHub" />
-  </picture>
-  <br />
-  <sub><b>APIs and Tooling</b> &nbsp;&nbsp; Postman · Git · GitHub</sub>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Cwordpress&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=php%2Cwordpress&theme=light" height="42" alt="PHP, WordPress" />
-  </picture>
-  <br />
-  <sub><b>Currently Studying</b> &nbsp;&nbsp; PHP · WordPress</sub>
+  <sub>Also: Railway · Fedora</sub>
 </p>
 
 ---
@@ -128,6 +74,7 @@ Core practices I bring to any engineering or IT environment:
 - Web security fundamentals: HTTPS, Content Security Policy, CORS, and authentication flows
 - Relational data modeling, SQL, and access control with PostgreSQL and Supabase
 - Integration patterns: webhooks, polling fallbacks, rate limits, and third-party API failure handling
+- Task automation and scripting: Python scripts, JavaScript utilities, and browser console automation for repetitive workflows
 
 ---
 
