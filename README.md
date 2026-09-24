@@ -205,8 +205,8 @@ PHP · Lua · .NET · jQuery · WordPress · Docker · Railway · Selenium · Ol
 <p align="center"><sub>Most of my day-to-day work is in private team repositories, so these stats only show part of what I work on. I mainly keep them around to track how they're changing over time.</sub></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aris-Artates&show_icons=true&hide_border=true&bg_color=00000000&title_color=0D9488&icon_color=0D9488&text_color=888888&rank_icon=github&hide=issues" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aris-Artates&layout=compact&hide_border=true&bg_color=00000000&title_color=0D9488&text_color=888888" height="160" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Aris-Artates&show_icons=true&hide_border=true&bg_color=00000000&title_color=0D9488&icon_color=0D9488&text_color=888888&rank_icon=github&hide=issues" height="160" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aris-Artates&layout=compact&hide_border=true&bg_color=00000000&title_color=0D9488&text_color=888888" height="160" alt="Top languages" />
 </p>
 
 ---
