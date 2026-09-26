@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRhaWpjb3Y2b2ZrcDB3c3NkcXd6MXQxamhtOXZuZmVybjJiYTF3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TcWh1QKPlaWAyhrWmG/giphy.gif"><b>Portfolio</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/Aris-Artates?tab=repositories"><b>All Repositories</b></a> &nbsp;·&nbsp;
-  <a href="www.linkedin.com/in/aris-artates"><b>Connect</b></a>
+  <a href="https://www.linkedin.com/in/aris-artates"><b>Connect</b></a>
 </p>
 
 ---
