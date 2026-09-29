@@ -117,7 +117,7 @@
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| Corne-troll Tower | Browser tower defense game built around learning the 46-key Corne keyboard with Programmer Dvorak | HTML5, JavaScript | Repo not public |
+| Corne-troll Tower | Browser tower defense game built around learning the 46-key Corne keyboard with Programmer Dvorak | HTML5, JavaScript | [Live](https://valarxph.org) |
 | [Actuation Point](https://github.com/Aris-Artates/ActuationPoint) | Infiltration-themed typing trainer for Corne and Dvorak | Python | Public |
 | 2p2p | Two-player, two-perspective puzzle story game. Restarted from scratch in pygame-ce as a hands-on learning project | Python, pygame-ce | Early prototype |
 
@@ -129,7 +129,7 @@
 
 | Project | What It Is | Stack | Status |
 |---|---|---|---|
-| [Valarx](https://github.com/Aris-Artates/valarx) | Community website covering introductions, events, and team information, with a FastAPI backend being developed | Next.js, TypeScript, Tailwind, FastAPI | [Live](https://valarx.vercel.app) |
+| [Valarx](https://github.com/Aris-Artates/valarx) | Community website covering introductions, events, and team information, with a FastAPI backend being developed | Next.js, TypeScript, Tailwind, FastAPI | [Live](https://valarx.org) |
 | [Tax System](https://github.com/Aris-Artates/tax-system) | Property tax administration system developed by a team using issue-driven development and reviewed pull requests | Next.js, TypeScript, Supabase | Team project |
 | [ExamPrep](https://github.com/Aris-Artates/examprep) | Exam platform with local live streaming using FFmpeg and Nginx RTMP, plus an XGBoost and LightGBM score predictor | Next.js, FastAPI, Supabase | Prototype |
 | [LiveFB](https://github.com/Aris-Artates/livefb) | Learning platform with Facebook Live integration, local-LLM recommendations, and live Q&amp;A | Next.js, FastAPI, Ollama, Supabase | Prototype |
