@@ -141,69 +141,70 @@
 
 <p align="center"><sub>Languages, frameworks and tools I work with.</sub></p>
 
-<table align="center">
-  <tr>
-    <td align="right"><b>Languages</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,c,php,lua,html,css&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=ts,js,python,c,php,lua,html,css&theme=light" height="40" alt="TypeScript, JavaScript, Python, C, PHP, Lua, HTML, CSS" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frontend</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery,alpinejs&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery,alpinejs&theme=light" height="40" alt="Next.js, React, Tailwind CSS, jQuery, Alpine.js" />
-      </picture>
-      <br /><img src="https://cdn.simpleicons.org/swr/000000/ffffff" height="18" alt="" /> SWR &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/radixui/000000/ffffff" height="18" alt="" /> Radix UI &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/shadcnui/000000/ffffff" height="18" alt="" /> shadcn/ui &nbsp;·&nbsp; <img src="https://img.icons8.com/color/48/line-chart.png" height="18" alt="" /> Recharts &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/leaflet" height="18" alt="" /> Leaflet
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Backend &amp; Data</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,wordpress,supabase,postgres&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,wordpress,supabase,postgres&theme=light" height="40" alt="Node.js, Express, FastAPI, .NET, WordPress, Supabase, PostgreSQL" />
-      </picture>
-      <br /><img src="https://img.icons8.com/color/48/api.png" height="18" alt="" /> REST APIs &nbsp;·&nbsp; <img src="https://img.icons8.com/color/48/google-logo.png" height="18" alt="" /> Google Workspace integration &nbsp;·&nbsp; <img src="https://img.icons8.com/color/48/data-protection.png" height="18" alt="" /> Row-level security &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/jsonwebtokens/000000/ffffff" height="18" alt="" /> JWT / signed-cookie auth
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>DevOps &amp; Infra</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,vercel,githubactions,linux,kali&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,githubactions,linux,kali&theme=light" height="40" alt="Docker, Nginx, Vercel, GitHub Actions, Linux, Kali Linux" />
-      </picture>
-      <br /><img src="https://cdn.simpleicons.org/railway/000000/ffffff" height="18" alt="" /> Railway &nbsp;·&nbsp; <img src="https://img.icons8.com/fluency/48/fedora.png" height="18" alt="" /> Fedora &nbsp;·&nbsp; <img src="https://img.icons8.com/fluency/48/linux-terminal.png" height="18" alt="" /> systemd / udev
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Tools</b></td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,npm,postman,selenium,visualstudio,notion,obsidian&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,postman,selenium,visualstudio,notion,obsidian&theme=light" height="40" alt="Git, GitHub, GitLab, npm, Postman, Selenium, Visual Studio, Notion, Obsidian" />
-      </picture>
-      <br /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="18" alt="" /> Playwright &nbsp;·&nbsp; <img src="https://img.icons8.com/color/48/python.png" height="18" alt="" /> PyInstaller
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>AI &amp; Media</b></td>
-    <td>
-      <img src="https://img.icons8.com/fluency/48/claude-ai.png" height="18" alt="" /> Claude API &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/ollama/000000/ffffff" height="18" alt="" /> Ollama &nbsp;·&nbsp; <img src="https://img.icons8.com/color/48/tree-structure.png" height="18" alt="" /> XGBoost / LightGBM &nbsp;·&nbsp; <img src="https://img.icons8.com/color/48/ffmpeg.png" height="18" alt="" /> FFmpeg
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Games &amp; Hardware</b></td>
-    <td>
-      <img src="https://img.icons8.com/color/48/controller.png" height="18" alt="" /> pygame-ce &nbsp;·&nbsp; <img src="https://cdn.simpleicons.org/qmk/333333/ffffff" height="18" alt="" /> QMK / Vial firmware &nbsp;·&nbsp; <img src="https://img.icons8.com/color/48/usb-logo.png" height="18" alt="" /> Raw HID &nbsp;·&nbsp; <img src="https://img.icons8.com/color/48/html-5.png" height="18" alt="" /> HTML5 Canvas
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>Languages</b>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,c,php,lua,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,c,php,lua,html,css&theme=light" alt="TypeScript, JavaScript, Python, C, PHP, Lua, HTML, CSS" />
+  </picture>
+</p>
+
+<p align="center">
+  <b>Frontend</b>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery,alpinejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery,alpinejs&theme=light" alt="Next.js, React, Tailwind CSS, jQuery, Alpine.js" />
+  </picture>
+  <br />
+  <img src="https://cdn.simpleicons.org/swr/000000/ffffff" height="16" alt="" /> SWR &emsp; <img src="https://cdn.simpleicons.org/radixui/000000/ffffff" height="16" alt="" /> Radix UI &emsp; <img src="https://cdn.simpleicons.org/shadcnui/000000/ffffff" height="16" alt="" /> shadcn/ui &emsp; <img src="https://img.icons8.com/color/48/line-chart.png" height="16" alt="" /> Recharts &emsp; <img src="https://cdn.simpleicons.org/leaflet" height="16" alt="" /> Leaflet
+</p>
+
+<p align="center">
+  <b>Backend &amp; Data</b>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,wordpress,supabase,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,wordpress,supabase,postgres&theme=light" alt="Node.js, Express, FastAPI, .NET, WordPress, Supabase, PostgreSQL" />
+  </picture>
+  <br />
+  <img src="https://img.icons8.com/color/48/api.png" height="16" alt="" /> REST APIs &emsp; <img src="https://img.icons8.com/color/48/google-logo.png" height="16" alt="" /> Google Workspace &emsp; <img src="https://img.icons8.com/color/48/data-protection.png" height="16" alt="" /> Row-level security &emsp; <img src="https://cdn.simpleicons.org/jsonwebtokens/000000/ffffff" height="16" alt="" /> JWT auth
+</p>
+
+<p align="center">
+  <b>DevOps &amp; Infra</b>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,vercel,githubactions,linux,kali&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,githubactions,linux,kali&theme=light" alt="Docker, Nginx, Vercel, GitHub Actions, Linux, Kali Linux" />
+  </picture>
+  <br />
+  <img src="https://cdn.simpleicons.org/railway/000000/ffffff" height="16" alt="" /> Railway &emsp; <img src="https://img.icons8.com/fluency/48/fedora.png" height="16" alt="" /> Fedora &emsp; <img src="https://img.icons8.com/fluency/48/linux-terminal.png" height="16" alt="" /> systemd / udev
+</p>
+
+<p align="center">
+  <b>Tools</b>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,npm,postman,selenium,visualstudio,notion,obsidian&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,postman,selenium,visualstudio,notion,obsidian&theme=light" alt="Git, GitHub, GitLab, npm, Postman, Selenium, Visual Studio, Notion, Obsidian" />
+  </picture>
+  <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="16" alt="" /> Playwright &emsp; <img src="https://img.icons8.com/color/48/python.png" height="16" alt="" /> PyInstaller
+</p>
+
+<p align="center">
+  <b>AI &amp; Media</b>
+  <br />
+  <img src="https://img.icons8.com/fluency/48/claude-ai.png" height="16" alt="" /> Claude API &emsp; <img src="https://cdn.simpleicons.org/ollama/000000/ffffff" height="16" alt="" /> Ollama &emsp; <img src="https://img.icons8.com/color/48/tree-structure.png" height="16" alt="" /> XGBoost / LightGBM &emsp; <img src="https://img.icons8.com/color/48/ffmpeg.png" height="16" alt="" /> FFmpeg
+</p>
+
+<p align="center">
+  <b>Games &amp; Hardware</b>
+  <br />
+  <img src="https://img.icons8.com/color/48/controller.png" height="16" alt="" /> pygame-ce &emsp; <img src="https://cdn.simpleicons.org/qmk/333333/ffffff" height="16" alt="" /> QMK / Vial &emsp; <img src="https://img.icons8.com/color/48/usb-logo.png" height="16" alt="" /> Raw HID &emsp; <img src="https://img.icons8.com/color/48/html-5.png" height="16" alt="" /> HTML5 Canvas
+</p>
 
 **Currently exploring:** game development with pygame-ce, keyboard firmware, and running LLMs locally.
 
