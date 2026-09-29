@@ -139,15 +139,15 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<p align="center"><sub>Technologies I've actually built or shipped something with.</sub></p>
+<p align="center"><sub>Languages, frameworks and tools I work with.</sub></p>
 
 <table align="center">
   <tr>
     <td align="right"><b>Languages</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,c,html,css&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=ts,js,python,c,html,css&theme=light" height="40" alt="TypeScript, JavaScript, Python, C, HTML, CSS" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,c,php,lua,html,css&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=ts,js,python,c,php,lua,html,css&theme=light" height="40" alt="TypeScript, JavaScript, Python, C, PHP, Lua, HTML, CSS" />
       </picture>
     </td>
   </tr>
@@ -155,8 +155,8 @@
     <td align="right"><b>Frontend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=light" height="40" alt="Next.js, React, Tailwind CSS" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery&theme=light" height="40" alt="Next.js, React, Tailwind CSS, jQuery" />
       </picture>
       <br /><sub>SWR · Radix UI / shadcn · Recharts · Leaflet · Alpine.js</sub>
     </td>
@@ -165,36 +165,41 @@
     <td align="right"><b>Backend &amp; Data</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase,postgres&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,supabase,postgres&theme=light" height="40" alt="Node.js, Express, FastAPI, Supabase, PostgreSQL" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,wordpress,supabase,postgres&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,wordpress,supabase,postgres&theme=light" height="40" alt="Node.js, Express, FastAPI, .NET, WordPress, Supabase, PostgreSQL" />
       </picture>
-      <br /><sub>REST APIs · row-level security · JWT / signed-cookie auth · WordPress REST as a consumer</sub>
+      <br /><sub>REST APIs · Google Workspace integration · row-level security · JWT / signed-cookie auth</sub>
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Infra &amp; Tooling</b></td>
+    <td align="right"><b>DevOps &amp; Infra</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vercel,nginx,linux&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vercel,nginx,linux&theme=light" height="40" alt="Git, GitHub, GitLab, GitHub Actions, Vercel, Nginx, Linux" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,vercel,githubactions,linux,kali&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,githubactions,linux,kali&theme=light" height="40" alt="Docker, Nginx, Vercel, GitHub Actions, Linux, Kali Linux" />
       </picture>
-      <br /><sub>Playwright · PyInstaller · systemd / udev · Postman</sub>
+      <br /><sub>Railway · Fedora · systemd / udev</sub>
     </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,npm,postman,selenium,visualstudio,notion,obsidian&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,postman,selenium,visualstudio,notion,obsidian&theme=light" height="40" alt="Git, GitHub, GitLab, npm, Postman, Selenium, Visual Studio, Notion, Obsidian" />
+      </picture>
+      <br /><sub>Playwright · PyInstaller</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI &amp; Media</b></td>
+    <td><sub>Claude API · Ollama · XGBoost / LightGBM · FFmpeg</sub></td>
   </tr>
   <tr>
     <td align="right"><b>Games &amp; Hardware</b></td>
     <td><sub>pygame-ce · QMK / Vial firmware · raw HID · HTML5 Canvas</sub></td>
   </tr>
 </table>
-
-<details>
-<summary><b>Also used before, lighter experience</b></summary>
-
-<br />
-
-PHP · Lua · .NET · jQuery · WordPress · Docker · Railway · Selenium · Ollama · XGBoost / LightGBM · FFmpeg
-
-</details>
 
 **Currently exploring:** game development with pygame-ce, keyboard firmware, and running LLMs locally.
 
