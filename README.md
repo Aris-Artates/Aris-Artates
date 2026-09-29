@@ -144,67 +144,86 @@
 <p align="center">
   <b>Languages</b>
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,c,php,lua,html,css&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=ts,js,python,c,php,lua,html,css&theme=light" alt="TypeScript, JavaScript, Python, C, PHP, Lua, HTML, CSS" />
-  </picture>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" title="PHP" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" alt="Lua" title="Lua" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS" />
 </p>
 
 <p align="center">
   <b>Frontend</b>
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery,alpinejs&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery,alpinejs&theme=light" alt="Next.js, React, Tailwind CSS, jQuery, Alpine.js" />
-  </picture>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="shadcn/ui" title="shadcn/ui" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/leaflet.png" alt="Leaflet" title="Leaflet" />
   <br />
-  <img src="https://cdn.simpleicons.org/swr/000000/ffffff" height="16" alt="" /> SWR &emsp; <img src="https://cdn.simpleicons.org/radixui/000000/ffffff" height="16" alt="" /> Radix UI &emsp; <img src="https://cdn.simpleicons.org/shadcnui/000000/ffffff" height="16" alt="" /> shadcn/ui &emsp; <img src="https://img.icons8.com/color/48/line-chart.png" height="16" alt="" /> Recharts &emsp; <img src="https://cdn.simpleicons.org/leaflet" height="16" alt="" /> Leaflet
+  <sub>jQuery · Alpine.js · SWR · Radix UI · Recharts</sub>
 </p>
 
 <p align="center">
   <b>Backend &amp; Data</b>
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,wordpress,supabase,postgres&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,wordpress,supabase,postgres&theme=light" alt="Node.js, Express, FastAPI, .NET, WordPress, Supabase, PostgreSQL" />
-  </picture>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET" title=".NET" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/wordpress.png" alt="WordPress" title="WordPress" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" title="Supabase" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST" />
   <br />
-  <img src="https://img.icons8.com/color/48/api.png" height="16" alt="" /> REST APIs &emsp; <img src="https://img.icons8.com/color/48/google-logo.png" height="16" alt="" /> Google Workspace &emsp; <img src="https://img.icons8.com/color/48/data-protection.png" height="16" alt="" /> Row-level security &emsp; <img src="https://cdn.simpleicons.org/jsonwebtokens/000000/ffffff" height="16" alt="" /> JWT auth
+  <sub>Google Workspace integration · Row-level security · JWT auth</sub>
 </p>
 
 <p align="center">
   <b>DevOps &amp; Infra</b>
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,vercel,githubactions,linux,kali&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,githubactions,linux,kali&theme=light" alt="Docker, Nginx, Vercel, GitHub Actions, Linux, Kali Linux" />
-  </picture>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" alt="Vercel" title="Vercel" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/githubactions.png" alt="GitHub Actions" title="GitHub Actions" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" title="Kali Linux" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" alt="Fedora" title="Fedora" />
   <br />
-  <img src="https://cdn.simpleicons.org/railway/000000/ffffff" height="16" alt="" /> Railway &emsp; <img src="https://img.icons8.com/fluency/48/fedora.png" height="16" alt="" /> Fedora &emsp; <img src="https://img.icons8.com/fluency/48/linux-terminal.png" height="16" alt="" /> systemd / udev
+  <sub>Railway · systemd / udev</sub>
 </p>
 
 <p align="center">
   <b>Tools</b>
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,npm,postman,selenium,visualstudio,notion,obsidian&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,postman,selenium,visualstudio,notion,obsidian&theme=light" alt="Git, GitHub, GitLab, npm, Postman, Selenium, Visual Studio, Notion, Obsidian" />
-  </picture>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png" alt="GitLab" title="GitLab" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png" alt="Selenium" title="Selenium" />
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" title="Playwright" />
   <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="16" alt="" /> Playwright &emsp; <img src="https://img.icons8.com/color/48/python.png" height="16" alt="" /> PyInstaller
+  <sub>Visual Studio · Notion · Obsidian · PyInstaller</sub>
 </p>
 
 <p align="center">
   <b>AI &amp; Media</b>
   <br />
-  <img src="https://img.icons8.com/fluency/48/claude-ai.png" height="16" alt="" /> Claude API &emsp; <img src="https://cdn.simpleicons.org/ollama/000000/ffffff" height="16" alt="" /> Ollama &emsp; <img src="https://img.icons8.com/color/48/tree-structure.png" height="16" alt="" /> XGBoost / LightGBM &emsp; <img src="https://img.icons8.com/color/48/ffmpeg.png" height="16" alt="" /> FFmpeg
+  <sub>Claude API · Ollama · XGBoost / LightGBM · FFmpeg</sub>
 </p>
 
 <p align="center">
   <b>Games &amp; Hardware</b>
   <br />
-  <img src="https://img.icons8.com/color/48/controller.png" height="16" alt="" /> pygame-ce &emsp; <img src="https://cdn.simpleicons.org/qmk/333333/ffffff" height="16" alt="" /> QMK / Vial &emsp; <img src="https://img.icons8.com/color/48/usb-logo.png" height="16" alt="" /> Raw HID &emsp; <img src="https://img.icons8.com/color/48/html-5.png" height="16" alt="" /> HTML5 Canvas
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pygame.png" alt="pygame" title="pygame" />
+  <br />
+  <sub>QMK / Vial firmware · Raw HID · HTML5 Canvas</sub>
 </p>
+
+> _**Note:**_\n> _Technologies listed as text don't have an icon in the icon set yet._
 
 **Currently exploring:** game development with pygame-ce, keyboard firmware, and running LLMs locally.
 
