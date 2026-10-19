@@ -87,6 +87,12 @@
 
 </details>
 
+#### Real-time &amp; synchronization
+
+- Built **synchronized watch parties** on Supabase Realtime. Playback state lives in one Postgres row with a version number, and changes go through a function that rejects stale versions, so two viewers acting at once can't split the room.
+- Wrote the drift correction: small drift is closed by easing playback speed (proportional to the gap, capped at 12%), large drift is a single seek, and each client estimates its clock offset against the database when it joins. The sync math is pure and unit tested with Node's built-in test runner.
+- Locked it down so only the database can broadcast playback state: private channels gated by row-level security, writes only through `security definer` functions, zod-validated payloads, and a per-client token-bucket rate limit.
+
 #### Tooling, automation &amp; verification
 
 - Wrote **verification scripts** for a codebase without a test runner. They check role coverage, audit classifications, payment gates, and installment rules to catch regressions in important business logic.
@@ -130,6 +136,7 @@
 | Project | What It Is | Stack | Status |
 |---|---|---|---|
 | [Valarx](https://github.com/Aris-Artates/valarx) | Community website covering introductions, events, and team information, with a FastAPI backend being developed | Next.js, TypeScript, Tailwind, FastAPI | [Live](https://valarx.org) |
+| [Streamless](https://github.com/Aris-Artates/streamless-stream) | Movie browsing site with watch parties that stay in sync: shared play, pause and seek, drift correction, and a buffering hold | Next.js 16, TypeScript, Supabase Realtime, TMDB API | In development |
 | [Tax System](https://github.com/Aris-Artates/tax-system) | Property tax administration system developed by a team using issue-driven development and reviewed pull requests | Next.js, TypeScript, Supabase | Team project |
 | [ExamPrep](https://github.com/Aris-Artates/examprep) | Exam platform with local live streaming using FFmpeg and Nginx RTMP, plus an XGBoost and LightGBM score predictor | Next.js, FastAPI, Supabase | Prototype |
 | [LiveFB](https://github.com/Aris-Artates/livefb) | Learning platform with Facebook Live integration, local-LLM recommendations, and live Q&amp;A | Next.js, FastAPI, Ollama, Supabase | Prototype |
@@ -178,7 +185,7 @@
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL" />
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST" />
   <br />
-  <sub>Google Workspace integration · Row-level security · JWT auth</sub>
+  <sub>Supabase Realtime · Google Workspace integration · Row-level security · JWT auth · zod</sub>
 </p>
 
 <p align="center">
@@ -256,4 +263,4 @@
   <i>Open to collaborations on business web platforms, system integration, developer tooling, and civic tech.</i>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=120&section=footer&desc=last%20updated%202026-09-24&descSize=14&descAlignY=80)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&reversal=true&height=120&section=footer&desc=last%20updated%202026-10-19&descSize=14&descAlignY=80)
